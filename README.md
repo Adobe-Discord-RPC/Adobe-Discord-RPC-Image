@@ -1,5 +1,7 @@
 # Adobe Discord RPC Image Storage
 
+[![Title Image](https://github.cdn.adoberpc.hwahyang.space/images/cover.png)](https://github.com/Adobe-Discord-RPC)
+
 ## Ko
 
 Github Repository에서 쓰이는 미디어 파일들이 저장되는 장소입니다.
