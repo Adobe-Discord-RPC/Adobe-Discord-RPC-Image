@@ -1,6 +1,6 @@
 # Adobe Discord RPC Image Storage
 
-[![Title Image](https://github.cdn.adoberpc.hwahyang.space/images/cover.png)](https://github.com/Adobe-Discord-RPC)
+[![Title Image](https://adobe-discord-rpc.github.io/Adobe-Discord-RPC-Image/images/cover.png)](https://github.com/Adobe-Discord-RPC)
 
 ## Ko
 
