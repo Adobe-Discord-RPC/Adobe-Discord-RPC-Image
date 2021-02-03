@@ -17,8 +17,20 @@ Github Repository에서 쓰이는 미디어 파일들이 저장되는 장소입�
 
 모든 저작권은 Adobe Discord RPC에 있으며, 원작자와의 상의 없는 2차 가공, 재배포 등의 행위를 금지합니다.
 
+---
+
+디자인 : [화향](https://hwahyang.space), [틸토](https://tilto.kro.kr)
+
+일부 아이콘은 [Flaticon](https://flaticon.com)과 [dribbble](https://dribbble.com)에서 가져왔습니다.
+
 ## En
 
 This is where the media files used in the Github Repository are stored.
 
 All copyrights are in Adobe Discord RPC and prohibit secondary processing, redistribution, etc. without consultation with the original author.
+
+---
+
+Design by. [HwaHyang](https://hwahyang.space), [Tilto](https://tilto.kro.kr)
+
+Some Icons from [Flaticon](https://flaticon.com), [dribbble](https://dribbble.com)
